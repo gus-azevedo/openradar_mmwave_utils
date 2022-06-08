@@ -1,0 +1,12 @@
+
+Wed Jun  8 12:46:21 2022
+FPGA Configuration Command (req)
+
+Wed Jun  8 12:46:21 2022
+FPGA Configuration command : Success
+
+Wed Jun  8 12:46:21 2022
+Return status : 0
+
+Wed Jun  8 12:46:21 2022
+Start Record Command (req)
